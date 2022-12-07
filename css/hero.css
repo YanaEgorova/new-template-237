@@ -31,6 +31,7 @@
 .hero__wrapper-svg,
 .products__wrapper-svg {
     display: none;
+    fill: var(--third-brand-color);
 }
 
 
