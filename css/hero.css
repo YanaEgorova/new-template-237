@@ -240,7 +240,7 @@
     }
     .policy__item:nth-child(2) {
         margin-bottom: 0;
-        margin-right: 10rem;
+        /* margin-right: 10rem; */
     }
     .policy__item:nth-child(2) .policy__box {
         background-color: var(--third-brand-color);
